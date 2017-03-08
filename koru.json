@@ -3,38 +3,38 @@
         {
             "number": "1",
             "hpmf1": "img/purple1.jpg",
-            "hpmf2": "2",
-            "hpmf3": "3",
-            "hpmf4": "4",
-            "hpmf5": "5",
-            "hpmf6": "6"
+            "hpmf2": "img/purple2.jpg",
+            "hpmf3": "img/purple1.jpg",
+            "hpmf4": "img/purple2.jpg",
+            "hpmf5": "img/purple1.jpg",
+            "hpmf6": "img/purple2.jpg"
         },
         {
             "number": "2",
-            "hpmf1": "img/purple2.jpg",
-            "hpmf2": "8",
-            "hpmf3": "9",
-            "hpmf4": "10",
-            "hpmf5": "11",
-            "hpmf6": "12"
+            "hpmf1": "img/pink1.jpg",
+            "hpmf2": "img/pink2.jpg",
+            "hpmf3": "img/pink1.jpg",
+            "hpmf4": "img/pink2.jpg",
+            "hpmf5": "img/pink1.jpg",
+            "hpmf6": "img/pink2.jpg"
         },
         {
             "number": "3",
-            "hpmf1": "img/purple1.jpg",
-            "hpmf2": "14",
-            "hpmf3": "15",
-            "hpmf4": "16",
-            "hpmf5": "17",
-            "hpmf6": "18"
+            "hpmf1": "img/green1.jpg",
+            "hpmf2": "img/green2.jpg",
+            "hpmf3": "img/green1.jpg",
+            "hpmf4": "img/green2.jpg",
+            "hpmf5": "img/green1.jpg",
+            "hpmf6": "img/green2.jpg"
         },
         {
             "number": "4",
-            "hpmf1": "img/purple2.jpg",
-            "hpmf2": "20",
-            "hpmf3": "21",
-            "hpmf4": "22",
-            "hpmf5": "23",
-            "hpmf6": "24"
+            "hpmf1": "img/blue1.jpg",
+            "hpmf2": "img/blue2.jpg",
+            "hpmf3": "img/blue1.jpg",
+            "hpmf4": "img/blue2.jpg",
+            "hpmf5": "img/blue1.jpg",
+            "hpmf6": "img/blue2.jpg"
         }
     ]
 }
