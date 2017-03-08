@@ -2,7 +2,7 @@
     "promptcards": [
         {
             "number": "1",
-            "hpmf1": "1",
+            "hpmf1": "img/purple1.jpg",
             "hpmf2": "2",
             "hpmf3": "3",
             "hpmf4": "4",
@@ -11,7 +11,7 @@
         },
         {
             "number": "2",
-            "hpmf1": "7",
+            "hpmf1": "img/purple2.jpg",
             "hpmf2": "8",
             "hpmf3": "9",
             "hpmf4": "10",
@@ -20,7 +20,7 @@
         },
         {
             "number": "3",
-            "hpmf1": "13",
+            "hpmf1": "img/purple1.jpg",
             "hpmf2": "14",
             "hpmf3": "15",
             "hpmf4": "16",
@@ -29,7 +29,7 @@
         },
         {
             "number": "4",
-            "hpmf1": "19",
+            "hpmf1": "img/purple2.jpg",
             "hpmf2": "20",
             "hpmf3": "21",
             "hpmf4": "22",
