@@ -13,32 +13,32 @@
         {
             "number": "2",
             "background": "#FFCD2F",
-            "hpmf1": "1",
-            "hpmf2": "2",
-            "hpmf3": "3",
-            "hpmf4": "4",
-            "hpmf5": "5",
-            "hpmf6": "6"
+            "hpmf1": "7",
+            "hpmf2": "8",
+            "hpmf3": "9",
+            "hpmf4": "10",
+            "hpmf5": "11",
+            "hpmf6": "12"
         },
         {
             "number": "3",
             "background": "#FFCD2F",
-            "hpmf1": "1",
-            "hpmf2": "2",
-            "hpmf3": "3",
-            "hpmf4": "4",
-            "hpmf5": "5",
-            "hpmf6": "6"
+            "hpmf1": "13",
+            "hpmf2": "14",
+            "hpmf3": "15",
+            "hpmf4": "16",
+            "hpmf5": "17",
+            "hpmf6": "18"
         },
         {
             "number": "4",
             "background": "#005AAA",
-            "hpmf1": "1",
-            "hpmf2": "2",
-            "hpmf3": "3",
-            "hpmf4": "4",
-            "hpmf5": "5",
-            "hpmf6": "6"
+            "hpmf1": "19",
+            "hpmf2": "20",
+            "hpmf3": "21",
+            "hpmf4": "22",
+            "hpmf5": "23",
+            "hpmf6": "24"
         }
     ]
 }
